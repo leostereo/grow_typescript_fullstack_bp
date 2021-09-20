@@ -17,10 +17,6 @@ response here
 ## Backend concepts
 
 ### Working with APIs:
-**Wich verbs are most common utlized to define actions on an API comunication , please explain them**
-```
-response here
-```
 **Wich mechanism do you know to provide security on each data transaction**
 ```
 response here
@@ -58,7 +54,6 @@ response here
 | PROXMOX    |       |
 | Virtualbox    |       |
 | CITRIX    |       |
-| Virtualbox    |       |
 | XEN Server    |       |
 
 > **OTHER:_**  specify here
