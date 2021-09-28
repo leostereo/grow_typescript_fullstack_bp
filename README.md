@@ -11,11 +11,6 @@
 ### Working with APIs:
 **Wich verbs are most common utlized to define actions on an API comunication , please explain them**
 ```
-Assuming RESTful Service is taken
-GET - Commonly Used to READ not altering it, receives expected read value on it's response body.
-POST - Commonly Used to CREATE Information, body is used to send the information to help being created by the endpoint
-PUT - Commonly Used to UPDATE Information, the information was already created and you to alter it's info
-DELETE - Commonly Used to DELETE Information
 ```
 
 ## Backend concepts
